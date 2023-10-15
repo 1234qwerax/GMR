@@ -1,0 +1,20 @@
+{
+  "1": {
+    "Name": "Stone",
+    "Hp": 6,
+    "Price": 1,
+    "DropOre": 1,
+    "MinDrop": 1,
+    "MaxDrop:": 3,
+    "Rate": -1
+  },
+  "2": {
+    "Name": "Coal",
+    "Hp": 6,
+    "Price": 1,
+    "DropOre": 1,
+    "MinDrop": 1,
+    "MaxDrop:": 3,
+    "Rate": -1
+  }
+}
