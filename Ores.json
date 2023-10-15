@@ -6,7 +6,7 @@
     "DropOre": 1,
     "MinDrop": 1,
     "MaxDrop:": 3,
-    "Spawn": {
+    "Rate": {
       "1": 3
     }
   },
@@ -17,7 +17,7 @@
     "DropOre": 2,
     "MinDrop": 2,
     "MaxDrop:": 3,
-    "Spawn": {
+    "Rate": {
       "1": 4
     }
   }
