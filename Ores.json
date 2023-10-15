@@ -6,15 +6,19 @@
     "DropOre": 1,
     "MinDrop": 1,
     "MaxDrop:": 3,
-    "Rate": 3
+    "Spawn": {
+      "1": 3
+    }
   },
   "2": {
     "Name": "Coal",
-    "Hp": 15,
+    "Hp": 10,
     "Price": 5,
     "DropOre": 2,
     "MinDrop": 2,
     "MaxDrop:": 3,
-    "Rate": 4
+    "Spawn": {
+      "1": 4
+    }
   }
 }
