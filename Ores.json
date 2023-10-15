@@ -6,15 +6,15 @@
     "DropOre": 1,
     "MinDrop": 1,
     "MaxDrop:": 3,
-    "Rate": -1
+    "Rate": 3
   },
   "2": {
     "Name": "Coal",
-    "Hp": 6,
-    "Price": 1,
-    "DropOre": 1,
-    "MinDrop": 1,
+    "Hp": 15,
+    "Price": 5,
+    "DropOre": 2,
+    "MinDrop": 2,
     "MaxDrop:": 3,
-    "Rate": -1
+    "Rate": 4
   }
 }
